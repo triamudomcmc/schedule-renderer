@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@font-face {
+    font-family: "IBMPlexThai";
+    font-weight: 300;
+    src: url(/public/fonts/IBMPlexSansThai-Light.ttf) format('ttf');
+}
+@font-face {
+    font-family: "IBMPlexThai";
+    font-weight: 400;
+    src: url(/public/fonts/IBMPlexSansThai-Regular.ttf) format('ttf');
+}
+@font-face {
+    font-family: "IBMPlexThai";
+    font-weight: 500;
+    src: url(/public/fonts/IBMPlexSansThai-Medium.ttf) format('ttf');
+}
+@font-face {
+    font-family: "IBMPlexThai";
+    font-weight: 600;
+    src: url(/public/fonts/IBMPlexSansThai-SemiBold.ttf) format('ttf');
+}
+@font-face {
+    font-family: "IBMPlexThai";
+    font-weight: 700;
+    src: url(/public/fonts/IBMPlexSansThai-Bold.ttf) format('ttf');
+}
+@tailwind utilities;
